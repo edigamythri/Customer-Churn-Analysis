@@ -45,7 +45,7 @@ The dataset contains information on 7,043 telecom customers with features includ
 - Pandas
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Google colab
 
 ## 💡 Business Recommendations
 
